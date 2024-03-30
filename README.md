@@ -43,7 +43,7 @@ With Study Buddy, you'll have access to a suite of intelligent tools and utiliti
 
 ### Why Study Buddy?
 
-### Built With
+### Tech Stack
 
 This section lists major frameworks and libraries used in the project.
 
