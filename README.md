@@ -41,8 +41,6 @@ With Study Buddy, you'll have access to a suite of intelligent tools and utiliti
 8. **AVA: AI Chatbot 📺:** Engage in interactive conversations with an AI chatbot to get instant answers to your study-related queries.
 9. **Doubt Solver ❓:** Seek AI-powered assistance with any academic doubts or questions you encounter.
 
-### Why Study Buddy?
-
 ### Tech Stack
 
 This section lists major frameworks and libraries used in the project.
