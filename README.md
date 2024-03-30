@@ -53,6 +53,7 @@ This section lists major frameworks and libraries used in the project.
 * [![scikit-learn][Scikit-learn.shield]][Scikit-learn.url]
 * [![SQLite][SQLite.shield]][SQLite.url]
 * [![Git][Git.shield]][Git.url]
+* [![T5 Transformer][T5.shield]][T5.url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [Streamlit.shield]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
@@ -67,6 +68,8 @@ This section lists major frameworks and libraries used in the project.
 [SQLite.url]: https://www.sqlite.org/
 [Git.shield]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [Git.url]: https://git-scm.com/
+[T5.shield]: https://img.shields.io/badge/T5_Transformer-FFD000?style=for-the-badge&logo=transformer&logoColor=white
+[T5.url]: https://en.wikipedia.org/wiki/T5_(text_generator)
 
 ### Tracks
 This project aligns with the following track:
