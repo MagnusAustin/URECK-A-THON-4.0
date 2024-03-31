@@ -100,6 +100,11 @@ Follow these steps to install and set up the application:
    ```sh
    streamlit run dashboard.py
    ```
+# Project Demo
+
+[![Project Demo](https://img.youtube.com/vi/_dXi4DfEWuc/0.jpg)](https://youtu.be/_dXi4DfEWuc?si=RSjta2mO4bO5JaxS)
+
+Click on the image above to watch the project demo on YouTube.
 
 <!-- CONTRIBUTING -->
 ## Contributing
