@@ -21,8 +21,7 @@ Traditional study methods often lack the intelligence and adaptability required 
 
 Welcome to the future of studying! Say goodbye to traditional methods and hello to Study Buddy, your AI-powered study companion. 
 
-![GIF showing example](StudyBuddyGif.gif
-)
+![GIF showing example](StudyBuddyGif.gif)
 
 
 ### What is Study Buddy?
@@ -32,6 +31,8 @@ Study Buddy is not just another study tool - it's your personal learning assista
 ### How Does It Work?
 
 With Study Buddy, you'll have access to a suite of intelligent tools and utilities that will supercharge your productivity, boost comprehension, and skyrocket your learning outcomes. From personalized study plans to interactive quizzes, Study Buddy has everything you need to succeed.
+
+![GIF showing example](Gif2.gif)
 
 ### Features Tailored For You:
 
@@ -125,9 +126,11 @@ If you encounter any issues or have questions, we're here to help!
   - [Manas](mailto:manastare7@gmail.com)
   - [Kaushik](mailto:kaushik020603@gmail.com)
   - [Adarsh](mailto:21104039.adarsh.pandey@gmail.com)
-  - [Amogh](mailto:amoghmparulekar@gmail.com) 
+  - [Amogh](mailto:amoghmparulekar@gmail.com)
 
 Don't hesitate to contact us. We're here to support you!
+
+![GIF showing example](GIF3.gif)
 
 ## Acknowledgments:
    - Special thanks to Amogh Parulekar, Kaushik Prabhu-Nerurkar and Adarsh Pandey for their contributions to this project
