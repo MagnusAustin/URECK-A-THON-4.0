@@ -21,6 +21,10 @@ Traditional study methods often lack the intelligence and adaptability required 
 
 Welcome to the future of studying! Say goodbye to traditional methods and hello to Study Buddy, your AI-powered study companion. 
 
+![GIF showing example](StudyBuddyGif.gif
+)
+
+
 ### What is Study Buddy?
 
 Study Buddy is not just another study tool - it's your personal learning assistant! Using cutting-edge AI technology, Study Buddy is designed to revolutionize the way you learn and comprehend complex subjects.
